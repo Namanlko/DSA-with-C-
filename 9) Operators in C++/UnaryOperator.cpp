@@ -19,12 +19,12 @@ int main(){
     cout<<b++<<endl;
     cout<<b<<endl;
 
-    // 3) Pre Decrement: Firstly Increase Value Then Assign.
+    // 3) Pre Decrement: Firstly Decrease Value Then Assign.
     int c = 1;
     cout<<--c<<endl;
     cout<<c<<endl;
 
-    // 4) Post Decrement: Firstly Assign Value Then Increase.
+    // 4) Post Decrement: Firstly Assign Value Then Decrease.
     int d = 1;
     cout<<d--<<endl;
     cout<<d<<endl;
